@@ -16,7 +16,7 @@ ul > li:hover{
     cursor: pointer;
 }
 a{
-    text-decoration: noneaaaaaa;
+    text-decoration: none;
 }
 .container{
     max-width: 55rem;
