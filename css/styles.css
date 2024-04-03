@@ -15,6 +15,9 @@ ul{
 ul > li:hover{
     cursor: pointer;
 }
+a{
+    text-decoration: noneaaaaaa;
+}
 .container{
     max-width: 55rem;
     margin: 0 auto;
@@ -175,6 +178,7 @@ form{
 form input, textarea{
     width: 100%;
     padding: .25rem;
+    font-family: "Comic Neue", cursive;
 }
 button[type="submit"]{
     all: initial;
