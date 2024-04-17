@@ -2,9 +2,8 @@
 <rss version="2.0">
     <channel>
         <title>Podcast Nomada en el camino RSS</title>
-        <link>Dirección web en la que se encuentre nuestro RSS</link>
-        <description></description>
-
+        <link>https://espinozagabriel0.github.io/PROJ2-Sprint1-Historia1/podcast.rss</link>
+        <description>Podcasts sobre temas varios</description>
 
         <item>
         <title>Cocinando al aire libre</title>
