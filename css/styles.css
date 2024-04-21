@@ -72,13 +72,9 @@ article{
 .article{
     display: flex;
     height: 15rem;
-    /* height: 100%; */
-}
-.article img{
-    width: 50%;
 }
 .article  > *{
-    flex-grow: 1;
+    flex: 1;
 }
 .article_content{
     display: flex;
